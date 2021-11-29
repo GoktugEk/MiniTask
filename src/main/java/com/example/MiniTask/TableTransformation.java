@@ -3,6 +3,8 @@ package com.example.MiniTask;
 import org.springframework.transaction.TransactionUsageException;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 
@@ -13,14 +15,23 @@ public class TableTransformation {
 
         ///Users/macbookretina/MiniTask/consumerRecords.out
 
-        File file = new File("/Users/macbookretina/MiniTask/consumerRecords.out");
+        File file = new File(System.getProperty("user.dir") + "/consumerRecords.out");
 
         Scanner scan = new Scanner(file);
 
         String fileContent = "";
+        String oldLine = scan.nextLine();
         while(scan.hasNextLine()){
-            String oldLine = scan.nextLine();
-            long id;
+            long id = oldLine.indexOf("\"id\"");;
+            List packageList = new ArrayList();
+            packageList.add(oldLine);
+            int len = 1;
+
+            while(id != oldLine.indexOf("\"id\"")){
+                oldLine = scan.nextLine();
+                packageList.add(oldLine);
+                len++;
+            }
             String  createdAt;
             String lastUpdatedAt;
             int collectionDuration;
@@ -29,20 +40,31 @@ public class TableTransformation {
             int leadTime;
             boolean orderInTime;
 
-            //ID
-            int indexIn = oldLine.indexOf("\"id\"");
-            String sid = oldLine.substring(indexIn+5,indexIn+13);
+            for (int i = 0; i < len; i++){
+                //buraya packageListteki bir package a ait line lari kullanarak istedigin parametrelerin hepsini bul
+                //mesela collected at ilk baslarda null olabilir ama sonradan degisiyor o degiseni al
+            }
+
+            //Oldline i kullanma, eger bir paket icin degismeyecek bir feature ile ugrasacaksan packageList'in ilk indexini kullan
+
+            //ID THIS IS COMPLETED
+            String p1 = (String) packageList.get(0);
+            int indexIn = p1.indexOf("\"id\"");
+            String sid = p1.substring(indexIn+5,indexIn+13);
             id = Long.parseLong(sid);
 
-            //CREATED_AT
-            int indexCreat = oldLine.indexOf("\"created_at\"");
-            createdAt = oldLine.substring(indexCreat+14,indexCreat+40);
+            //CREATED_AT THIS IS COMPLETED
+            p1 = (String) packageList.get(0);
+            int indexCreat = p1.indexOf("\"created_at\"");
+            createdAt = p1.substring(indexCreat+14,indexCreat+40);
 
-            //LAST_UPDATED_AT
-            int indexLast = oldLine.indexOf("\"last_updated_at\"");
-            lastUpdatedAt = oldLine.substring(indexLast+19,indexLast+45);
+            //LAST_UPDATED_AT THIS IS COMPLETED
+            p1 = (String) packageList.get(len-1);
+            int indexLast = p1.indexOf("\"last_updated_at\"");
+            lastUpdatedAt = p1.substring(indexLast+19,indexLast+45);
 
             //COLLECTION_DURATION
+
             int indexCollect = oldLine.indexOf("\"collected_at\"");
             int indexAssign = oldLine.indexOf("\"assigned_at\"");
             String scollect = oldLine.substring(indexCollect+16,indexCollect+42);
