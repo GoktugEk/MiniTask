@@ -3,7 +3,10 @@ package com.example.MiniTask;
 import org.springframework.transaction.TransactionUsageException;
 
 import java.io.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
@@ -11,7 +14,7 @@ import java.util.Scanner;
 
 public class TableTransformation {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ParseException {
 
         ///Users/macbookretina/MiniTask/consumerRecords.out
 
@@ -22,39 +25,63 @@ public class TableTransformation {
         String fileContent = "";
         String oldLine = scan.nextLine();
         while(scan.hasNextLine()){
-            long id = oldLine.indexOf("\"id\"");;
-            List packageList = new ArrayList();
-            packageList.add(oldLine);
-            int len = 1;
+            //ID THIS IS COMPLETED
+            int indexIn = oldLine.indexOf("\"id\"");
+            String sid = oldLine.substring(indexIn+5,indexIn+13);
+            long id = Long.parseLong(sid);
 
-            while(id != oldLine.indexOf("\"id\"")){
-                oldLine = scan.nextLine();
+            List packageList = new ArrayList();
+            int len = 0;
+
+            long temp = id;
+            while(temp == id){
                 packageList.add(oldLine);
+                if(scan.hasNextLine()) oldLine = scan.nextLine();
+                temp = Long.parseLong(oldLine.substring(oldLine.indexOf("\"id\"")+5,oldLine.indexOf("\"id\"")+13));
                 len++;
             }
             String  createdAt;
             String lastUpdatedAt;
-            int collectionDuration;
-            int deliveryDuration;
-            int eta;
-            int leadTime;
+            int collectionDuration = 0;
+            int deliveryDuration = 0;
+            int eta = 0;
+            int leadTime = 0;
             boolean orderInTime;
 
+            Date icollect = null, iassign = null, ideliver = null, ilead1 = null, ilead2 = null;
+
+
             for (int i = 0; i < len; i++){
-                //buraya packageListteki bir package a ait line lari kullanarak istedigin parametrelerin hepsini bul
-                //mesela collected at ilk baslarda null olabilir ama sonradan degisiyor o degiseni al
+                String tempP = (String) packageList.get(i);
+
+                int indexCollect = tempP.indexOf("\"collected_at\"");
+                int indexAssign = tempP.indexOf("\"assigned_at\"");
+                int indexDeliver = tempP.indexOf("\"in_delivery_at\"");
+                int indexEta = tempP.indexOf("\"eta\"");
+                int indexEtalast = tempP.indexOf("\"eta_for_prep\"");
+                int indexLead1 = tempP.indexOf("\"completed_at\"");
+                int indexLead2 = tempP.indexOf("\"created_at\"\"");
+
+
+                String scollect = tempP.substring(indexCollect+27,indexCollect+42);
+                String sassign = tempP.substring(indexAssign+27,indexAssign+42);
+                String sdeliver = tempP.substring(indexDeliver+27,indexDeliver+42);
+                String seta = tempP.substring(indexEta+6,indexEtalast-1);
+                String slead1 = tempP.substring(indexLead1+27,indexLead1+42);
+                String slead2 = tempP.substring(indexLead2+27,indexLead2+42);
+
+                SimpleDateFormat format = new SimpleDateFormat("HH:mm:ss");
+                if(!scollect.matches(".*[^a-z].*") && !scollect.contains("null")) icollect = format.parse(scollect);
+                if(!sassign.matches(".*[^a-z].*")&& !sassign.contains("null")) iassign = format.parse(sassign);
+                if(!sdeliver.matches(".*[^a-z].*")&& !sdeliver.contains("null")) ideliver = format.parse(sdeliver);
+                if(!seta.matches(".*[^a-z].*")&& !seta.contains("null")) eta = Integer.parseInt(seta);
+                if(!slead1.matches(".*[^a-z].*")&& !slead1.contains("null")) ilead1 = format.parse(slead1);
+                if(!slead2.matches(".*[^a-z].*")&& !slead2.contains("null")) ilead2 = format.parse(slead2);
             }
 
-            //Oldline i kullanma, eger bir paket icin degismeyecek bir feature ile ugrasacaksan packageList'in ilk indexini kullan
-
-            //ID THIS IS COMPLETED
-            String p1 = (String) packageList.get(0);
-            int indexIn = p1.indexOf("\"id\"");
-            String sid = p1.substring(indexIn+5,indexIn+13);
-            id = Long.parseLong(sid);
 
             //CREATED_AT THIS IS COMPLETED
-            p1 = (String) packageList.get(0);
+            String p1 = (String) packageList.get(0);
             int indexCreat = p1.indexOf("\"created_at\"");
             createdAt = p1.substring(indexCreat+14,indexCreat+40);
 
@@ -64,45 +91,20 @@ public class TableTransformation {
             lastUpdatedAt = p1.substring(indexLast+19,indexLast+45);
 
             //COLLECTION_DURATION
-
-            int indexCollect = oldLine.indexOf("\"collected_at\"");
-            int indexAssign = oldLine.indexOf("\"assigned_at\"");
-            String scollect = oldLine.substring(indexCollect+16,indexCollect+42);
-            String sassign = oldLine.substring(indexAssign+16,indexAssign+42);
-        /*    int icollect = Integer.parseInt(scollect);
-            int iassign = Integer.parseInt(sassign);
-            collectionDuration = icollect - iassign; */
-            collectionDuration=1;
-            System.out.println(scollect+" mmmm "+ sassign);
+            if(icollect != null && iassign != null) collectionDuration = (int) (icollect.getTime() - iassign.getTime());
 
             //DELIVERY_DURATION
-            int indexDeliver = oldLine.indexOf("\"delivery_date\"");
-            String sdeliver = oldLine.substring(indexDeliver+16,indexDeliver+42);
-        /*    int ideliver = Integer.parseInt(sdeliver);
-            deliveryDuration = ideliver - icollect;*/
-            deliveryDuration=1;
-        //    System.out.println(sdeliver+" mmmm "+ scollect);
+            if(icollect != null && ideliver != null) deliveryDuration = (int) (ideliver.getTime() - icollect.getTime());
 
             //ETA
-            int indexEta = oldLine.indexOf("\"eta\"");
-            int indexEtalast = oldLine.indexOf("\"eta_for_prep\"");
-            String seta = oldLine.substring(indexEta+6,indexEtalast-1);
-            System.out.println(seta);
-            //if(seta == "null")
-            eta = 0;
-            //else eta = Integer.parseInt(seta);
 
             //LEAD_TIME
-        //    int indexLead = oldLine.indexOf("\"collect\"");
-        //    String slead = oldLine.substring(indexLead+5,indexLead+13);
-        //    leadTime = Integer.parseInt(slead);
-            leadTime=1;
+            if(ilead1 != null && ilead2 != null) leadTime = (int) (ilead1.getTime() - ilead2.getTime());
+
 
             //ORDER_IN_TIME
-        //    int indexOrder = oldLine.indexOf("\"collect\"");
-        //    String sorder = oldLine.substring(indexOrder+5,indexOrder+13);
-        //    orderInTime = true;
-            orderInTime=true;
+            if(deliveryDuration+collectionDuration<=eta) orderInTime = true;
+            else orderInTime = false;
 
             MappedPackageObject newLine = new MappedPackageObject(id,createdAt,lastUpdatedAt,collectionDuration,deliveryDuration,eta,leadTime,orderInTime);
 
