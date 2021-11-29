@@ -21,9 +21,11 @@ public class KafkaConsumerApplication {
     private static Consumer<String, String> consumer;
     private static boolean KeepConsuming = true;
     private static Properties loadProperties;
+    private static ConsumerRecordsHandler<String, String> recordsHandler;
 
     public KafkaConsumerApplication(Consumer<String, String> consumer, ConsumerRecordsHandler<String, String> recordsHandler) {
         this.consumer = consumer;
+        this.recordsHandler = recordsHandler;
     }
 
     public static void runConsume(final Properties consumerProps){
@@ -31,7 +33,7 @@ public class KafkaConsumerApplication {
             consumer.subscribe(Collections.singleton("test_db_kangaroo"));
             while (KeepConsuming){
                 final ConsumerRecords<String, String> consumerRecords = consumer.poll(Duration.ofSeconds(1));
-                consumerRecords.notify();
+                recordsHandler.process(consumerRecords);
             }
         } finally {
             consumer.close();
