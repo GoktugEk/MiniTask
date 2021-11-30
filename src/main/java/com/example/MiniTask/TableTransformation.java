@@ -75,21 +75,35 @@ public class TableTransformation {
 
 
 
-
                 SimpleDateFormat format = new SimpleDateFormat("HH:mm:ss");
-                if(indexCollect != "null") icollect = format.parse(indexCollect);
-                if(indexAssign  != "null") iassign = format.parse(indexAssign);
-                if(indexDeliver  != "null") ideliver = format.parse(indexDeliver);
+                if(indexCollect != "null") {
+                    indexCollect = indexCollect.substring(11,19);
+                    icollect = format.parse(indexCollect);
+                }
+                if(indexAssign  != "null") {
+                    indexAssign = indexAssign.substring(11,19);
+                    iassign = format.parse(indexAssign);
+                }
+                if(indexDeliver  != "null") {
+                    indexDeliver = indexDeliver.substring(11,19);
+                    ideliver = format.parse(indexDeliver);
+                }
                 if(indexEta  != "null") eta = Integer.parseInt(indexEta);
-                if(indexLead1  != "null") ilead1 = format.parse(indexLead1);
-                if(indexLead2  != "null") ilead2 = format.parse(indexLead2);
+                if(indexLead1  != "null") {
+                    indexLead1 = indexLead1.substring(11,19);
+                    ilead1 = format.parse(indexLead1);
+                }
+                if(indexLead2  != "null") {
+                    indexLead2 = indexLead2.substring(11,19);
+                    ilead2 = format.parse(indexLead2);
+                }
             }
 
 
             //CREATED_AT THIS IS COMPLETED
             String p1 = (String) packageList.get(0);
-            int indexCreat = p1.indexOf("\"created_at\"");
-            createdAt = p1.substring(indexCreat+14,indexCreat+40);
+            int indexCreate = p1.indexOf("\"created_at\"");
+            createdAt = p1.substring(indexCreate+14,indexCreate+40);
 
             //LAST_UPDATED_AT THIS IS COMPLETED
             p1 = (String) packageList.get(len-1);
