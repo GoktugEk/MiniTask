@@ -1,15 +1,15 @@
 package com.example.MiniTask;
 
+import com.google.gson.Gson;
+import org.springframework.boot.json.GsonJsonParser;
+import org.springframework.boot.json.JsonParser;
 import org.springframework.transaction.TransactionUsageException;
 
 import java.io.*;
+import java.math.BigDecimal;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Scanner;
-
+import java.util.*;
 
 
 public class TableTransformation {
@@ -24,22 +24,34 @@ public class TableTransformation {
 
         String fileContent = "";
         String oldLine = scan.nextLine();
+
+        GsonJsonParser parser = new GsonJsonParser();
+        Map<String, Object> lineParsed = parser.parseMap(oldLine);
+
+
         while(scan.hasNextLine()){
-            //ID THIS IS COMPLETED
-            int indexIn = oldLine.indexOf("\"id\"");
-            String sid = oldLine.substring(indexIn+5,indexIn+13);
-            long id = Long.parseLong(sid);
 
             List packageList = new ArrayList();
             int len = 0;
 
-            long temp = id;
-            while(temp == id){
-                packageList.add(oldLine);
+            Object temp1 = lineParsed.get("xid");
+            long temp = ((Number) temp1).longValue();
+
+            //ID THIS IS COMPLETED
+            long id = temp;
+
+            while( id == temp){
+                packageList.add(lineParsed);
                 if(scan.hasNextLine()) oldLine = scan.nextLine();
-                temp = Long.parseLong(oldLine.substring(oldLine.indexOf("\"id\"")+5,oldLine.indexOf("\"id\"")+13));
+                parser = new GsonJsonParser();
+                lineParsed = parser.parseMap(oldLine);
+                temp1 = lineParsed.get("xid");
+                temp = ((Number) temp1).longValue();
                 len++;
             }
+
+
+
             String  createdAt;
             String lastUpdatedAt;
             int collectionDuration = 0;
@@ -52,31 +64,27 @@ public class TableTransformation {
 
 
             for (int i = 0; i < len; i++){
-                String tempP = (String) packageList.get(i);
+                Map<String, Object> tempP = (Map<String, Object>) packageList.get(i);
+                Map<String, Object> dataMap = (Map<String, Object>) tempP.get("data");
 
-                int indexCollect = tempP.indexOf("\"collected_at\"");
-                int indexAssign = tempP.indexOf("\"assigned_at\"");
-                int indexDeliver = tempP.indexOf("\"in_delivery_at\"");
-                int indexEta = tempP.indexOf("\"eta\"");
-                int indexEtalast = tempP.indexOf("\"eta_for_prep\"");
-                int indexLead1 = tempP.indexOf("\"completed_at\"");
-                int indexLead2 = tempP.indexOf("\"created_at\"\"");
+                String indexCollect = String.valueOf(dataMap.get("collected_at"));
+                String indexAssign = String.valueOf(dataMap.get("assigned_at"));
+                String indexDeliver =String.valueOf(dataMap.get("in_delivery_at"));
+                String indexEta = String.valueOf(dataMap.get("eta"));
+                String indexEtalast = String.valueOf(dataMap.get("eta_for_prep"));
+                String indexLead1 = String.valueOf(dataMap.get("completed_at"));
+                String indexLead2 = String.valueOf(dataMap.get("created_at"));
 
 
-                String scollect = tempP.substring(indexCollect+27,indexCollect+42);
-                String sassign = tempP.substring(indexAssign+27,indexAssign+42);
-                String sdeliver = tempP.substring(indexDeliver+27,indexDeliver+42);
-                String seta = tempP.substring(indexEta+6,indexEtalast-1);
-                String slead1 = tempP.substring(indexLead1+27,indexLead1+42);
-                String slead2 = tempP.substring(indexLead2+27,indexLead2+42);
+
 
                 SimpleDateFormat format = new SimpleDateFormat("HH:mm:ss");
-                if(!scollect.matches(".*[^a-z].*") && !scollect.contains("null")) icollect = format.parse(scollect);
-                if(!sassign.matches(".*[^a-z].*")&& !sassign.contains("null")) iassign = format.parse(sassign);
-                if(!sdeliver.matches(".*[^a-z].*")&& !sdeliver.contains("null")) ideliver = format.parse(sdeliver);
-                if(!seta.matches(".*[^a-z].*")&& !seta.contains("null")) eta = Integer.parseInt(seta);
-                if(!slead1.matches(".*[^a-z].*")&& !slead1.contains("null")) ilead1 = format.parse(slead1);
-                if(!slead2.matches(".*[^a-z].*")&& !slead2.contains("null")) ilead2 = format.parse(slead2);
+                if(indexCollect != "null") icollect = format.parse(indexCollect);
+                if(indexAssign  != "null") iassign = format.parse(indexAssign);
+                if(indexDeliver  != "null") ideliver = format.parse(indexDeliver);
+                if(indexEta  != "null") eta = Integer.parseInt(indexEta);
+                if(indexLead1  != "null") ilead1 = format.parse(indexLead1);
+                if(indexLead2  != "null") ilead2 = format.parse(indexLead2);
             }
 
 
@@ -114,7 +122,7 @@ public class TableTransformation {
             System.out.println(newiLine);
         }
 
-        FileWriter writer = new FileWriter("/Users/macbookretina/MiniTask/mappedRecords.out");
+        FileWriter writer = new FileWriter(System.getProperty("user.dir") + "/mappedRecords.out");
         writer.write(fileContent);
 
         writer.close();
