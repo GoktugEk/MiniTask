@@ -16,7 +16,6 @@ public class TableTransformation {
 
     public static void main(String[] args) throws IOException, ParseException {
 
-        ///Users/macbookretina/MiniTask/consumerRecords.out
 
         File file = new File(System.getProperty("user.dir") + "/consumerRecords.out");
 
