@@ -1269,7 +1269,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 231610659
+  "leadTime" : 231185
 }{
   "id" : 671049531,
   "createdAt" : "2021-11-26 16:09:06.532833",
@@ -1357,7 +1357,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 732518
+  "leadTime" : 93
 }{
   "id" : 671119313,
   "createdAt" : "2021-11-26 16:09:06.532833",
@@ -1378,7 +1378,7 @@
   "id" : 671137275,
   "createdAt" : "2021-11-26 10:32:06.340649",
   "lastUpdatedAt" : "2021-11-29 08:58:24.373635",
-  "collectionDuration" : 245277870,
+  "collectionDuration" : 245509,
   "deliveryDuration" : 0,
   "eta" : 15,
   "leadTime" : 0
@@ -1386,10 +1386,10 @@
   "id" : 671137765,
   "createdAt" : "2021-11-26 10:32:06.340649",
   "lastUpdatedAt" : "2021-11-29 08:58:28.176453",
-  "collectionDuration" : 245277870,
+  "collectionDuration" : 245509,
   "deliveryDuration" : 0,
   "eta" : 15,
-  "leadTime" : 253417804
+  "leadTime" : 253582
 }{
   "id" : 671138269,
   "createdAt" : "2021-11-26 16:09:06.532833",
@@ -1453,7 +1453,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 350092
+  "leadTime" : 426
 }{
   "id" : 671191800,
   "createdAt" : "2021-11-26 16:09:06.532833",
@@ -1557,7 +1557,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 338686
+  "leadTime" : 172
 }{
   "id" : 671303344,
   "createdAt" : "2021-11-26 16:09:06.532833",
@@ -1690,7 +1690,7 @@
   "id" : 671430958,
   "createdAt" : "2021-11-29 09:57:07.985609",
   "lastUpdatedAt" : "2021-11-29 09:57:08.262011",
-  "collectionDuration" : 139691,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 39,
   "leadTime" : 0
@@ -1698,7 +1698,7 @@
   "id" : 671431796,
   "createdAt" : "2021-11-29 09:57:07.985609",
   "lastUpdatedAt" : "2021-11-29 09:57:19.292997",
-  "collectionDuration" : 139691,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 39,
   "leadTime" : 0
@@ -1706,7 +1706,7 @@
   "id" : 671432739,
   "createdAt" : "2021-11-29 09:57:07.985609",
   "lastUpdatedAt" : "2021-11-29 09:57:32.981483",
-  "collectionDuration" : 139691,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 39,
   "leadTime" : 0
@@ -2250,7 +2250,7 @@
   "id" : 672076449,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 12:05:39.601485",
-  "collectionDuration" : 177789,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 50,
   "leadTime" : 0
@@ -2258,7 +2258,7 @@
   "id" : 672078970,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 12:06:04.885922",
-  "collectionDuration" : 177789,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 50,
   "leadTime" : 0
@@ -2266,7 +2266,7 @@
   "id" : 672079364,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 12:06:07.755859",
-  "collectionDuration" : 177789,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 50,
   "leadTime" : 0
@@ -2290,7 +2290,7 @@
   "id" : 672085921,
   "createdAt" : "2021-11-29 12:07:07.219958",
   "lastUpdatedAt" : "2021-11-29 12:07:07.396613",
-  "collectionDuration" : 98241,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -2298,7 +2298,7 @@
   "id" : 672086742,
   "createdAt" : "2021-11-29 12:07:07.219958",
   "lastUpdatedAt" : "2021-11-29 12:07:16.489380",
-  "collectionDuration" : 98241,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -2306,7 +2306,7 @@
   "id" : 672091091,
   "createdAt" : "2021-11-29 12:07:07.219958",
   "lastUpdatedAt" : "2021-11-29 12:08:02.477700",
-  "collectionDuration" : 98241,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -2426,7 +2426,7 @@
   "id" : 672226452,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 12:28:35.896083",
-  "collectionDuration" : 177789,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 68,
   "leadTime" : 0
@@ -2450,7 +2450,7 @@
   "id" : 672239863,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 12:30:15.164017",
-  "collectionDuration" : 90717,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 45,
   "leadTime" : 0
@@ -2458,7 +2458,7 @@
   "id" : 672241610,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 12:30:28.915915",
-  "collectionDuration" : 90717,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 45,
   "leadTime" : 0
@@ -2466,7 +2466,7 @@
   "id" : 672242406,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 12:30:37.125353",
-  "collectionDuration" : 90717,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 74,
   "leadTime" : 0
@@ -2490,7 +2490,7 @@
   "id" : 672251160,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 12:31:46.434791",
-  "collectionDuration" : 102530,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 57,
   "leadTime" : 0
@@ -2498,7 +2498,7 @@
   "id" : 672253538,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 12:32:09.043816",
-  "collectionDuration" : 685881,
+  "collectionDuration" : -163,
   "deliveryDuration" : 0,
   "eta" : 65,
   "leadTime" : 0
@@ -2514,7 +2514,7 @@
   "id" : 672259110,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 12:33:09.128004",
-  "collectionDuration" : 102530,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 57,
   "leadTime" : 0
@@ -2578,7 +2578,7 @@
   "id" : 672331669,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 12:43:07.180190",
-  "collectionDuration" : 102530,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 57,
   "leadTime" : 0
@@ -2618,7 +2618,7 @@
   "id" : 672393607,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 12:50:50.976044",
-  "collectionDuration" : 102530,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 57,
   "leadTime" : 0
@@ -2626,7 +2626,7 @@
   "id" : 672393608,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 12:50:50.982907",
-  "collectionDuration" : 90717,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 61,
   "leadTime" : 0
@@ -2634,7 +2634,7 @@
   "id" : 672393611,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 12:50:50.989196",
-  "collectionDuration" : 685881,
+  "collectionDuration" : -163,
   "deliveryDuration" : 0,
   "eta" : 65,
   "leadTime" : 0
@@ -2642,7 +2642,7 @@
   "id" : 672393618,
   "createdAt" : "2021-11-29 12:25:07.615918",
   "lastUpdatedAt" : "2021-11-29 12:50:50.993923",
-  "collectionDuration" : -147211,
+  "collectionDuration" : -163,
   "deliveryDuration" : 0,
   "eta" : 69,
   "leadTime" : 0
@@ -2754,8 +2754,8 @@
   "id" : 672511432,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 13:06:25.476182",
-  "collectionDuration" : 685881,
-  "deliveryDuration" : 1817803,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2311,
   "eta" : 65,
   "leadTime" : 0
 }{
@@ -2770,16 +2770,16 @@
   "id" : 672514663,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 13:06:56.008164",
-  "collectionDuration" : 685881,
-  "deliveryDuration" : 1817803,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2311,
   "eta" : 65,
   "leadTime" : 0
 }{
   "id" : 672515311,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 13:07:01.075219",
-  "collectionDuration" : 685881,
-  "deliveryDuration" : 1817803,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2311,
   "eta" : 65,
   "leadTime" : 0
 }{
@@ -2794,16 +2794,16 @@
   "id" : 672518118,
   "createdAt" : "2021-11-29 12:25:07.615918",
   "lastUpdatedAt" : "2021-11-29 13:07:20.277489",
-  "collectionDuration" : -147211,
-  "deliveryDuration" : 2504720,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2366,
   "eta" : 69,
   "leadTime" : 0
 }{
   "id" : 672518734,
   "createdAt" : "2021-11-29 12:25:07.615918",
   "lastUpdatedAt" : "2021-11-29 13:07:25.376592",
-  "collectionDuration" : -147211,
-  "deliveryDuration" : 2504720,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2366,
   "eta" : 69,
   "leadTime" : 0
 }{
@@ -2818,32 +2818,32 @@
   "id" : 672522324,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 13:07:58.382145",
-  "collectionDuration" : 685881,
-  "deliveryDuration" : 1817803,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2311,
   "eta" : 65,
   "leadTime" : 0
 }{
   "id" : 672523309,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 13:08:07.009290",
-  "collectionDuration" : 102530,
-  "deliveryDuration" : 1757788,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2181,
   "eta" : 57,
   "leadTime" : 0
 }{
   "id" : 672523832,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 13:08:12.319151",
-  "collectionDuration" : 102530,
-  "deliveryDuration" : 1757788,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2181,
   "eta" : 57,
   "leadTime" : 0
 }{
   "id" : 672524714,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 13:08:20.773539",
-  "collectionDuration" : 102530,
-  "deliveryDuration" : 1757788,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2181,
   "eta" : 57,
   "leadTime" : 0
 }{
@@ -2858,8 +2858,8 @@
   "id" : 672526205,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 13:08:34.074719",
-  "collectionDuration" : 90717,
-  "deliveryDuration" : 2212933,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2299,
   "eta" : 61,
   "leadTime" : 0
 }{
@@ -2874,24 +2874,24 @@
   "id" : 672528006,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 13:08:48.197973",
-  "collectionDuration" : 90717,
-  "deliveryDuration" : 2212933,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2299,
   "eta" : 61,
   "leadTime" : 0
 }{
   "id" : 672529726,
   "createdAt" : "2021-11-29 12:30:14.940720",
   "lastUpdatedAt" : "2021-11-29 13:09:01.602883",
-  "collectionDuration" : 90717,
-  "deliveryDuration" : 2212933,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2299,
   "eta" : 61,
   "leadTime" : 0
 }{
   "id" : 672530017,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 13:09:03.078842",
-  "collectionDuration" : 102530,
-  "deliveryDuration" : 1757788,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2181,
   "eta" : 57,
   "leadTime" : 0
 }{
@@ -2914,8 +2914,8 @@
   "id" : 672533957,
   "createdAt" : "2021-11-29 12:26:07.168095",
   "lastUpdatedAt" : "2021-11-29 13:09:36.075252",
-  "collectionDuration" : 685881,
-  "deliveryDuration" : 1817803,
+  "collectionDuration" : -163,
+  "deliveryDuration" : 2311,
   "eta" : 65,
   "leadTime" : 0
 }{
@@ -2930,8 +2930,8 @@
   "id" : 672536961,
   "createdAt" : "2021-11-29 12:31:46.215302",
   "lastUpdatedAt" : "2021-11-29 13:09:57.185493",
-  "collectionDuration" : 102530,
-  "deliveryDuration" : 1757788,
+  "collectionDuration" : 0,
+  "deliveryDuration" : 2181,
   "eta" : 57,
   "leadTime" : 0
 }{
@@ -2946,7 +2946,7 @@
   "id" : 672542965,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 13:10:35.893418",
-  "collectionDuration" : -601216869,
+  "collectionDuration" : -600967,
   "deliveryDuration" : 0,
   "eta" : 64,
   "leadTime" : 0
@@ -2962,7 +2962,7 @@
   "id" : 672544010,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 13:10:44.976899",
-  "collectionDuration" : -601216869,
+  "collectionDuration" : -600967,
   "deliveryDuration" : 0,
   "eta" : 64,
   "leadTime" : 0
@@ -2994,7 +2994,7 @@
   "id" : 672586721,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 13:16:35.627841",
-  "collectionDuration" : 177789,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 101,
   "leadTime" : 0
@@ -3018,7 +3018,7 @@
   "id" : 672601149,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 13:18:36.335286",
-  "collectionDuration" : -601139162,
+  "collectionDuration" : -601448,
   "deliveryDuration" : 0,
   "eta" : 41,
   "leadTime" : 0
@@ -3034,7 +3034,7 @@
   "id" : 672602204,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 13:18:46.378384",
-  "collectionDuration" : -601139162,
+  "collectionDuration" : -601448,
   "deliveryDuration" : 0,
   "eta" : 41,
   "leadTime" : 0
@@ -3042,7 +3042,7 @@
   "id" : 672603003,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 13:18:54.775095",
-  "collectionDuration" : -601139162,
+  "collectionDuration" : -601448,
   "deliveryDuration" : 0,
   "eta" : 41,
   "leadTime" : 0
@@ -3178,7 +3178,7 @@
   "id" : 672784022,
   "createdAt" : "2021-11-29 13:43:06.372710",
   "lastUpdatedAt" : "2021-11-29 13:44:36.201922",
-  "collectionDuration" : 506254,
+  "collectionDuration" : -35,
   "deliveryDuration" : 0,
   "eta" : 39,
   "leadTime" : 0
@@ -3218,7 +3218,7 @@
   "id" : 672791969,
   "createdAt" : "2021-11-29 13:43:06.372710",
   "lastUpdatedAt" : "2021-11-29 13:45:31.792905",
-  "collectionDuration" : 506254,
+  "collectionDuration" : -35,
   "deliveryDuration" : 0,
   "eta" : 39,
   "leadTime" : 0
@@ -3250,7 +3250,7 @@
   "id" : 672823425,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:50:13.878843",
-  "collectionDuration" : -144962,
+  "collectionDuration" : -301,
   "deliveryDuration" : 0,
   "eta" : 44,
   "leadTime" : 0
@@ -3258,7 +3258,7 @@
   "id" : 672824911,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:50:29.076787",
-  "collectionDuration" : -144962,
+  "collectionDuration" : -301,
   "deliveryDuration" : 0,
   "eta" : 44,
   "leadTime" : 0
@@ -3266,7 +3266,7 @@
   "id" : 672824912,
   "createdAt" : "2021-11-29 13:43:06.372710",
   "lastUpdatedAt" : "2021-11-29 13:50:29.082995",
-  "collectionDuration" : 506254,
+  "collectionDuration" : -35,
   "deliveryDuration" : 0,
   "eta" : 47,
   "leadTime" : 0
@@ -3298,24 +3298,24 @@
   "id" : 672825927,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:50:38.860297",
-  "collectionDuration" : -144962,
-  "deliveryDuration" : 900771,
+  "collectionDuration" : -301,
+  "deliveryDuration" : 331,
   "eta" : 44,
   "leadTime" : 0
 }{
   "id" : 672831814,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:51:36.180371",
-  "collectionDuration" : -144962,
-  "deliveryDuration" : 900771,
+  "collectionDuration" : -301,
+  "deliveryDuration" : 331,
   "eta" : 44,
   "leadTime" : 0
 }{
   "id" : 672834315,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:52:00.590356",
-  "collectionDuration" : -144962,
-  "deliveryDuration" : 900771,
+  "collectionDuration" : -301,
+  "deliveryDuration" : 331,
   "eta" : 44,
   "leadTime" : 0
 }{
@@ -3330,16 +3330,16 @@
   "id" : 672836472,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:52:20.574537",
-  "collectionDuration" : -144962,
-  "deliveryDuration" : 900771,
+  "collectionDuration" : -301,
+  "deliveryDuration" : 331,
   "eta" : 44,
   "leadTime" : 0
 }{
   "id" : 672836708,
   "createdAt" : "2021-11-29 13:43:06.372710",
   "lastUpdatedAt" : "2021-11-29 13:52:23.077724",
-  "collectionDuration" : 506254,
-  "deliveryDuration" : -162146,
+  "collectionDuration" : -35,
+  "deliveryDuration" : 502,
   "eta" : 47,
   "leadTime" : 0
 }{
@@ -3354,8 +3354,8 @@
   "id" : 672839316,
   "createdAt" : "2021-11-29 13:43:06.372710",
   "lastUpdatedAt" : "2021-11-29 13:52:47.591181",
-  "collectionDuration" : 506254,
-  "deliveryDuration" : -162146,
+  "collectionDuration" : -35,
+  "deliveryDuration" : 502,
   "eta" : 47,
   "leadTime" : 0
 }{
@@ -3370,8 +3370,8 @@
   "id" : 672841111,
   "createdAt" : "2021-11-29 13:45:06.572125",
   "lastUpdatedAt" : "2021-11-29 13:53:04.074647",
-  "collectionDuration" : -144962,
-  "deliveryDuration" : 900771,
+  "collectionDuration" : -301,
+  "deliveryDuration" : 331,
   "eta" : 44,
   "leadTime" : 0
 }{
@@ -3426,7 +3426,7 @@
   "id" : 672868075,
   "createdAt" : "2021-11-29 13:56:06.267998",
   "lastUpdatedAt" : "2021-11-29 13:56:52.102200",
-  "collectionDuration" : -435900,
+  "collectionDuration" : 23,
   "deliveryDuration" : 0,
   "eta" : 47,
   "leadTime" : 0
@@ -3434,7 +3434,7 @@
   "id" : 672868391,
   "createdAt" : "2021-11-29 13:56:06.592256",
   "lastUpdatedAt" : "2021-11-29 13:56:52.708645",
-  "collectionDuration" : 168734,
+  "collectionDuration" : 23,
   "deliveryDuration" : 0,
   "eta" : 44,
   "leadTime" : 0
@@ -3442,7 +3442,7 @@
   "id" : 672868878,
   "createdAt" : "2021-11-29 13:56:06.592256",
   "lastUpdatedAt" : "2021-11-29 13:56:57.033656",
-  "collectionDuration" : 168734,
+  "collectionDuration" : 23,
   "deliveryDuration" : 0,
   "eta" : 44,
   "leadTime" : 0
@@ -3450,7 +3450,7 @@
   "id" : 672868882,
   "createdAt" : "2021-11-29 13:56:06.267998",
   "lastUpdatedAt" : "2021-11-29 13:56:57.041340",
-  "collectionDuration" : -435900,
+  "collectionDuration" : 23,
   "deliveryDuration" : 0,
   "eta" : 47,
   "leadTime" : 0
@@ -3458,7 +3458,7 @@
   "id" : 672869949,
   "createdAt" : "2021-11-29 13:56:06.592256",
   "lastUpdatedAt" : "2021-11-29 13:57:07.079655",
-  "collectionDuration" : 168734,
+  "collectionDuration" : 23,
   "deliveryDuration" : 0,
   "eta" : 44,
   "leadTime" : 0
@@ -3498,16 +3498,16 @@
   "id" : 672892757,
   "createdAt" : "2021-11-29 13:56:06.592256",
   "lastUpdatedAt" : "2021-11-29 14:00:42.576030",
-  "collectionDuration" : 168734,
-  "deliveryDuration" : 100159,
+  "collectionDuration" : 23,
+  "deliveryDuration" : 230,
   "eta" : 44,
   "leadTime" : 0
 }{
   "id" : 672893375,
   "createdAt" : "2021-11-29 13:56:06.592256",
   "lastUpdatedAt" : "2021-11-29 14:00:45.574422",
-  "collectionDuration" : 168734,
-  "deliveryDuration" : 100159,
+  "collectionDuration" : 23,
+  "deliveryDuration" : 230,
   "eta" : 44,
   "leadTime" : 0
 }{
@@ -3522,16 +3522,16 @@
   "id" : 672896780,
   "createdAt" : "2021-11-29 13:56:06.267998",
   "lastUpdatedAt" : "2021-11-29 14:01:15.425530",
-  "collectionDuration" : -435900,
-  "deliveryDuration" : 588884,
+  "collectionDuration" : 23,
+  "deliveryDuration" : 263,
   "eta" : 47,
   "leadTime" : 0
 }{
   "id" : 672897128,
   "createdAt" : "2021-11-29 13:56:06.267998",
   "lastUpdatedAt" : "2021-11-29 14:01:18.474008",
-  "collectionDuration" : -435900,
-  "deliveryDuration" : 588884,
+  "collectionDuration" : 23,
+  "deliveryDuration" : 263,
   "eta" : 47,
   "leadTime" : 0
 }{
@@ -3554,7 +3554,7 @@
   "id" : 672905663,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 14:02:36.440368",
-  "collectionDuration" : -601139162,
+  "collectionDuration" : -601448,
   "deliveryDuration" : 0,
   "eta" : 49,
   "leadTime" : 0
@@ -3586,7 +3586,7 @@
   "id" : 672916921,
   "createdAt" : "2021-11-29 12:07:07.219958",
   "lastUpdatedAt" : "2021-11-29 14:04:09.066541",
-  "collectionDuration" : -6968174,
+  "collectionDuration" : -6929,
   "deliveryDuration" : 0,
   "eta" : 62,
   "leadTime" : 0
@@ -3594,7 +3594,7 @@
   "id" : 672919379,
   "createdAt" : "2021-11-22 14:14:27.084633",
   "lastUpdatedAt" : "2021-11-29 14:04:36.085721",
-  "collectionDuration" : -601139162,
+  "collectionDuration" : -601448,
   "deliveryDuration" : 0,
   "eta" : 45,
   "leadTime" : 0
@@ -3618,7 +3618,7 @@
   "id" : 672926636,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:05:48.415596",
-  "collectionDuration" : -67448,
+  "collectionDuration" : 72,
   "deliveryDuration" : 0,
   "eta" : 43,
   "leadTime" : 0
@@ -3626,7 +3626,7 @@
   "id" : 672926986,
   "createdAt" : "2021-11-29 14:04:06.301636",
   "lastUpdatedAt" : "2021-11-29 14:05:49.042411",
-  "collectionDuration" : -436841,
+  "collectionDuration" : 73,
   "deliveryDuration" : 0,
   "eta" : 46,
   "leadTime" : 0
@@ -3634,7 +3634,7 @@
   "id" : 672928083,
   "createdAt" : "2021-11-29 14:04:06.301636",
   "lastUpdatedAt" : "2021-11-29 14:05:59.901273",
-  "collectionDuration" : -436841,
+  "collectionDuration" : 73,
   "deliveryDuration" : 0,
   "eta" : 46,
   "leadTime" : 0
@@ -3650,7 +3650,7 @@
   "id" : 672932743,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:06:49.576238",
-  "collectionDuration" : -67448,
+  "collectionDuration" : 72,
   "deliveryDuration" : 0,
   "eta" : 43,
   "leadTime" : 0
@@ -3658,7 +3658,7 @@
   "id" : 672932744,
   "createdAt" : "2021-11-29 14:04:06.301636",
   "lastUpdatedAt" : "2021-11-29 14:06:49.583311",
-  "collectionDuration" : -436841,
+  "collectionDuration" : 73,
   "deliveryDuration" : 0,
   "eta" : 46,
   "leadTime" : 0
@@ -3706,7 +3706,7 @@
   "id" : 672954402,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 14:10:36.100389",
-  "collectionDuration" : -6997030,
+  "collectionDuration" : -7497,
   "deliveryDuration" : 0,
   "eta" : 41,
   "leadTime" : 0
@@ -3738,7 +3738,7 @@
   "id" : 672963741,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 14:12:08.880976",
-  "collectionDuration" : -7805009,
+  "collectionDuration" : -7584,
   "deliveryDuration" : 0,
   "eta" : 467,
   "leadTime" : 0
@@ -3754,7 +3754,7 @@
   "id" : 672968252,
   "createdAt" : "2021-11-29 12:05:39.305577",
   "lastUpdatedAt" : "2021-11-29 14:12:56.777480",
-  "collectionDuration" : -7805009,
+  "collectionDuration" : -7584,
   "deliveryDuration" : 0,
   "eta" : 467,
   "leadTime" : 0
@@ -3762,8 +3762,8 @@
   "id" : 672973478,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:13:44.764516",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
@@ -3794,8 +3794,8 @@
   "id" : 673016549,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:20:15.091008",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
@@ -3810,8 +3810,8 @@
   "id" : 673030585,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:22:15.061441",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
@@ -3834,7 +3834,7 @@
   "id" : 673043498,
   "createdAt" : "2021-11-29 14:24:06.577555",
   "lastUpdatedAt" : "2021-11-29 14:24:06.764066",
-  "collectionDuration" : 103509,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -3842,8 +3842,8 @@
   "id" : 673044362,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:24:15.033439",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
@@ -3858,7 +3858,7 @@
   "id" : 673049452,
   "createdAt" : "2021-11-29 14:24:06.577555",
   "lastUpdatedAt" : "2021-11-29 14:25:09.030903",
-  "collectionDuration" : 103509,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -3874,16 +3874,16 @@
   "id" : 673052217,
   "createdAt" : "2021-11-29 14:04:06.301636",
   "lastUpdatedAt" : "2021-11-29 14:25:36.422275",
-  "collectionDuration" : -436841,
-  "deliveryDuration" : 1568937,
+  "collectionDuration" : 73,
+  "deliveryDuration" : 1187,
   "eta" : 46,
   "leadTime" : 0
 }{
   "id" : 673052519,
   "createdAt" : "2021-11-29 14:04:06.301636",
   "lastUpdatedAt" : "2021-11-29 14:25:39.721302",
-  "collectionDuration" : -436841,
-  "deliveryDuration" : 1568937,
+  "collectionDuration" : 73,
+  "deliveryDuration" : 1187,
   "eta" : 46,
   "leadTime" : 0
 }{
@@ -3898,16 +3898,16 @@
   "id" : 673053344,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:25:46.775931",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
   "id" : 673053460,
   "createdAt" : "2021-11-29 14:03:06.368639",
   "lastUpdatedAt" : "2021-11-29 14:25:48.447191",
-  "collectionDuration" : -67448,
-  "deliveryDuration" : 827421,
+  "collectionDuration" : 72,
+  "deliveryDuration" : 476,
   "eta" : 43,
   "leadTime" : 0
 }{
@@ -3930,7 +3930,7 @@
   "id" : 673062372,
   "createdAt" : "2021-11-29 14:24:06.577555",
   "lastUpdatedAt" : "2021-11-29 14:26:59.333509",
-  "collectionDuration" : 103509,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -3938,7 +3938,7 @@
   "id" : 673062914,
   "createdAt" : "2021-11-29 14:24:06.577555",
   "lastUpdatedAt" : "2021-11-29 14:27:03.974842",
-  "collectionDuration" : 103509,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 52,
   "leadTime" : 0
@@ -4010,7 +4010,7 @@
   "id" : 673152341,
   "createdAt" : "2021-11-29 13:45:06.230430",
   "lastUpdatedAt" : "2021-11-29 14:40:43.017182",
-  "collectionDuration" : -44905,
+  "collectionDuration" : 44,
   "deliveryDuration" : 0,
   "eta" : 20,
   "leadTime" : 0
@@ -4018,7 +4018,7 @@
   "id" : 673152816,
   "createdAt" : "2021-11-29 13:45:06.230430",
   "lastUpdatedAt" : "2021-11-29 14:40:46.381850",
-  "collectionDuration" : -44905,
+  "collectionDuration" : 44,
   "deliveryDuration" : 0,
   "eta" : 20,
   "leadTime" : 0
@@ -4026,7 +4026,7 @@
   "id" : 673155593,
   "createdAt" : "2021-11-29 13:45:06.230430",
   "lastUpdatedAt" : "2021-11-29 14:41:12.351034",
-  "collectionDuration" : -44905,
+  "collectionDuration" : 44,
   "deliveryDuration" : 0,
   "eta" : 20,
   "leadTime" : 0
@@ -4042,16 +4042,16 @@
   "id" : 673155803,
   "createdAt" : "2021-11-29 13:45:06.230430",
   "lastUpdatedAt" : "2021-11-29 14:41:14.573429",
-  "collectionDuration" : -44905,
-  "deliveryDuration" : 591410,
+  "collectionDuration" : 44,
+  "deliveryDuration" : 31,
   "eta" : 20,
   "leadTime" : 0
 }{
   "id" : 673156250,
   "createdAt" : "2021-11-29 13:45:06.230430",
   "lastUpdatedAt" : "2021-11-29 14:41:17.283798",
-  "collectionDuration" : -44905,
-  "deliveryDuration" : 591410,
+  "collectionDuration" : 44,
+  "deliveryDuration" : 31,
   "eta" : 20,
   "leadTime" : 0
 }{
@@ -4082,7 +4082,7 @@
   "id" : 673165679,
   "createdAt" : "2021-11-29 14:24:06.577555",
   "lastUpdatedAt" : "2021-11-29 14:42:35.745596",
-  "collectionDuration" : 103509,
+  "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 49,
   "leadTime" : 0
@@ -4098,7 +4098,7 @@
   "id" : 673167177,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:42:48.989525",
-  "collectionDuration" : 687791,
+  "collectionDuration" : 14,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4106,7 +4106,7 @@
   "id" : 673176267,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:44:09.138953",
-  "collectionDuration" : 687791,
+  "collectionDuration" : 14,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4146,7 +4146,7 @@
   "id" : 673203668,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:48:09.202628",
-  "collectionDuration" : 687791,
+  "collectionDuration" : 14,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4162,7 +4162,7 @@
   "id" : 673207715,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:48:51.167359",
-  "collectionDuration" : 687791,
+  "collectionDuration" : 14,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4178,16 +4178,16 @@
   "id" : 673209225,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:49:05.846670",
-  "collectionDuration" : 687791,
-  "deliveryDuration" : 236219,
+  "collectionDuration" : 14,
+  "deliveryDuration" : 377,
   "eta" : 23,
   "leadTime" : 0
 }{
   "id" : 673217917,
   "createdAt" : "2021-11-29 13:41:06.289759",
   "lastUpdatedAt" : "2021-11-29 14:50:21.177002",
-  "collectionDuration" : 687791,
-  "deliveryDuration" : 236219,
+  "collectionDuration" : 14,
+  "deliveryDuration" : 377,
   "eta" : 23,
   "leadTime" : 0
 }{
@@ -4293,7 +4293,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 148197
+  "leadTime" : 38
 }{
   "id" : 673353560,
   "createdAt" : "2021-11-17 10:55:06.311390",
@@ -4477,7 +4477,7 @@
   "collectionDuration" : 0,
   "deliveryDuration" : 0,
   "eta" : 0,
-  "leadTime" : 92963
+  "leadTime" : 32
 }{
   "id" : 673449916,
   "createdAt" : "2021-11-29 13:09:06.304288",
@@ -4586,7 +4586,7 @@
   "id" : 673505094,
   "createdAt" : "2021-11-29 13:23:06.366989",
   "lastUpdatedAt" : "2021-11-29 15:31:25.092147",
-  "collectionDuration" : -752942,
+  "collectionDuration" : 61,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4594,7 +4594,7 @@
   "id" : 673510234,
   "createdAt" : "2021-11-29 13:23:06.366989",
   "lastUpdatedAt" : "2021-11-29 15:32:09.025526",
-  "collectionDuration" : -752942,
+  "collectionDuration" : 61,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4602,7 +4602,7 @@
   "id" : 673510353,
   "createdAt" : "2021-11-29 13:23:06.366989",
   "lastUpdatedAt" : "2021-11-29 15:32:11.176959",
-  "collectionDuration" : -752942,
+  "collectionDuration" : 61,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0
@@ -4610,7 +4610,7 @@
   "id" : 673510945,
   "createdAt" : "2021-11-29 13:23:06.366989",
   "lastUpdatedAt" : "2021-11-29 15:32:17.701408",
-  "collectionDuration" : -752942,
+  "collectionDuration" : 61,
   "deliveryDuration" : 0,
   "eta" : 23,
   "leadTime" : 0

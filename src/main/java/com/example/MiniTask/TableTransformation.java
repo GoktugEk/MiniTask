@@ -76,9 +76,9 @@ public class TableTransformation {
 
 
 
-            SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSSSSS");
+            SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
             if(pac.data.collected_at != null) icollect = format.parse(pac.data.collected_at);
-            if(pac.data.assigned_at != null)iassign = format.parse(pac.data.assigned_at);
+            if(pac.data.assigned_at != null) iassign = format.parse(pac.data.assigned_at);
             if(pac.data.in_delivery_at != null)ideliver = format.parse(pac.data.in_delivery_at);
             eta = pac.data.eta;
             if(pac.data.completed_at != null)ilead1 = format.parse(pac.data.completed_at);
@@ -95,14 +95,17 @@ public class TableTransformation {
             lastUpdatedAt = pac.data.last_updated_at;
 
             //COLLECTION_DURATION
-            if(icollect != null && iassign != null) collectionDuration = (int) (icollect.getTime() - iassign.getTime());
+            if(icollect != null && iassign != null) {
+                System.out.println(icollect+" mm "+ iassign+ " mm "+ (icollect.getTime() - iassign.getTime()));
+                collectionDuration = ((int) (icollect.getTime() - iassign.getTime()))/ 1000;
+            }
 
             //DELIVERY_DURATION
-            if(icollect != null && ideliver != null) deliveryDuration = (int) (ideliver.getTime() - icollect.getTime());
+            if(icollect != null && ideliver != null) deliveryDuration = ((int) (ideliver.getTime() - icollect.getTime()))/ 1000;
 
 
             //LEAD_TIME
-            if(ilead1 != null && ilead2 != null) leadTime = (int) (ilead1.getTime() - ilead2.getTime());
+            if(ilead1 != null && ilead2 != null) leadTime = ((int) (ilead1.getTime() - ilead2.getTime()))/ 1000;
 
 
             //ORDER_IN_TIME
