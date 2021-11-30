@@ -71,7 +71,6 @@ public class TableTransformation {
                 String indexAssign = String.valueOf(dataMap.get("assigned_at"));
                 String indexDeliver =String.valueOf(dataMap.get("in_delivery_at"));
                 String indexEta = String.valueOf(dataMap.get("eta"));
-                String indexEtalast = String.valueOf(dataMap.get("eta_for_prep"));
                 String indexLead1 = String.valueOf(dataMap.get("completed_at"));
                 String indexLead2 = String.valueOf(dataMap.get("created_at"));
 
