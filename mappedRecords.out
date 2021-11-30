@@ -1,0 +1,5033 @@
+{
+  "id" : 669840982,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:22:35.025510",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669848339,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:24:35.025177",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669855633,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:26:35.028730",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669863005,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:28:35.024484",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669870547,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:30:35.029324",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669877808,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:32:35.025490",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669885131,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:34:35.025144",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669892797,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:36:35.033457",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669900101,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:38:35.025873",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669907782,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:40:35.028201",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669915322,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:42:35.027993",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669922704,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:44:35.025646",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669930195,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:46:35.024202",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669937965,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:48:35.027203",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669945692,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:50:35.028344",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669953296,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:52:35.026836",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669960791,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:54:35.024249",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669968058,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:56:35.024965",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669975524,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 03:58:35.028663",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669983110,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:00:35.024609",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669990543,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:02:35.026310",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 669998212,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:04:35.026107",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670005945,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:06:35.026439",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670013507,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:08:35.025872",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670021274,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:10:35.024683",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670028918,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:12:35.025618",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670036501,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:14:35.026814",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670044152,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:16:35.024979",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670051710,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:18:35.026453",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670059372,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:20:35.027586",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670067049,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:22:35.026444",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670074582,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:24:35.027649",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670082206,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:26:35.028029",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670089911,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:28:35.026275",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670097692,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:30:35.025831",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670105243,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:32:35.026276",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670112833,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:34:35.025775",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670120500,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:36:35.025139",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670128095,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:38:35.024735",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670135907,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:40:35.025178",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670143731,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:42:35.024511",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670151202,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:44:35.024714",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670158766,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:46:35.024991",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670166180,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:48:35.027229",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670173790,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:50:35.029742",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670181358,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:52:35.031052",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670188804,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:54:35.025268",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670196349,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:56:35.026268",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670203926,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 04:58:35.028537",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670211521,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:00:35.025566",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670218998,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:02:35.025370",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670226776,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:04:35.026233",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670234441,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:06:35.025474",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670242026,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:08:35.025877",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670249812,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:10:35.025397",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670257514,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:12:35.024271",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670265093,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:14:35.025436",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670272787,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:16:35.028173",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670280472,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:18:35.024070",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670288039,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:20:35.029989",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670295496,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:22:35.025213",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670303254,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:24:35.029797",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670310791,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:26:35.024897",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670318278,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:28:35.025443",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670325942,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:30:35.024845",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670333543,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:32:35.025998",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670341254,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:34:35.026276",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670349038,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:36:35.026607",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670356661,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:38:35.025638",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670364459,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:40:35.024923",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670372286,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:42:35.030705",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670379809,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:44:35.026816",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670387583,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:46:35.025823",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670395167,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:48:35.024835",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670402843,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:50:35.025923",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670410465,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:52:35.027710",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670418082,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:54:35.024279",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670425585,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:56:35.025807",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670433221,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 05:58:35.025657",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670440900,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:00:35.028479",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670448368,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:02:35.025264",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670456074,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:04:35.024041",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670463750,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:06:35.027290",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670471314,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:08:35.026351",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670479198,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:10:35.025486",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670486919,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:12:35.026427",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670494464,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:14:35.031055",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670502007,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:16:35.024641",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670509533,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:18:35.027322",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670517127,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:20:35.025713",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670524826,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:22:35.024037",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670532501,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:24:35.025944",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670540137,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:26:35.026110",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670547820,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:28:35.025828",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670555629,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:30:35.025586",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670563534,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:32:35.026108",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670571201,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:34:35.025364",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670578977,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:36:35.028188",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670586584,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:38:35.025218",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670594349,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:40:35.029010",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670602237,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:42:35.024462",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670609911,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:44:35.025282",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670617572,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:46:35.028778",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670625300,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:48:35.025029",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670632922,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:50:35.026186",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670640645,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:52:35.025489",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670648391,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:54:35.025142",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670656015,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:56:35.024599",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670663763,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 06:58:35.025068",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670671567,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:00:35.025550",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670679197,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:02:35.024995",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670686980,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:04:35.025046",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670694945,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:06:35.025568",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670702578,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:08:35.028904",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670710354,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:10:35.024406",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670718071,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:12:35.028583",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670725587,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:14:35.028347",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670733240,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:16:35.025461",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670740941,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:18:35.025502",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670748496,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:20:35.025241",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670756221,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:22:35.026262",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670763826,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:24:35.026391",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670771456,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:26:35.025824",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670779068,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:28:35.025263",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670786828,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:30:35.025099",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670794376,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:32:35.025804",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670802105,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:34:35.026198",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670809842,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:36:35.024566",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670817407,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:38:35.024925",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670825109,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:40:35.028998",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670832784,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:42:35.025338",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670840339,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:44:35.024838",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670848027,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:46:35.025678",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670855761,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:48:35.027763",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670863330,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:50:35.023995",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670870930,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:52:35.032640",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670878358,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:54:35.025017",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670885924,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:56:35.025159",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670893591,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 07:58:35.025329",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670901452,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:00:35.025541",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670909034,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:02:35.027200",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670916918,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:04:35.025788",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670924697,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:06:35.025770",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670932293,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:08:35.024777",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670940055,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:10:35.025124",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670947813,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:12:35.028058",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670955294,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:14:35.025291",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670962952,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:16:35.027294",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670970572,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:18:35.028626",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670978204,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:20:35.028915",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670985943,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:22:35.025466",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 670993622,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:24:35.028726",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671001187,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:26:35.025524",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671008816,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:28:35.032158",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671016542,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:30:35.029012",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671024073,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:32:35.025002",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671032877,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:34:35.025876",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671041010,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:36:35.032471",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671047634,
+  "createdAt" : "2021-11-26 16:25:05.532160",
+  "lastUpdatedAt" : "2021-11-29 08:38:10.957819",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 231610659
+}{
+  "id" : 671049531,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:38:35.025904",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671057515,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:40:35.024139",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671066115,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:42:35.025211",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671075094,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:44:35.028007",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671084244,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:46:35.025488",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671093071,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:48:35.025854",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671100803,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:50:35.025749",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671107865,
+  "createdAt" : "2021-11-29 08:52:08.155364",
+  "lastUpdatedAt" : "2021-11-29 08:52:08.155364",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671109553,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:52:35.027800",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671112221,
+  "createdAt" : "2021-11-29 08:52:08.155364",
+  "lastUpdatedAt" : "2021-11-29 08:53:09.589626",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671114891,
+  "createdAt" : "2021-11-29 08:52:08.155364",
+  "lastUpdatedAt" : "2021-11-29 08:53:41.794882",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 732518
+}{
+  "id" : 671119313,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:54:35.028374",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671127525,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:56:35.025566",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671137275,
+  "createdAt" : "2021-11-26 10:32:06.340649",
+  "lastUpdatedAt" : "2021-11-29 08:58:24.373635",
+  "collectionDuration" : 245277870,
+  "deliveryDuration" : 0,
+  "eta" : 15,
+  "leadTime" : 0
+}{
+  "id" : 671137765,
+  "createdAt" : "2021-11-26 10:32:06.340649",
+  "lastUpdatedAt" : "2021-11-29 08:58:28.176453",
+  "collectionDuration" : 245277870,
+  "deliveryDuration" : 0,
+  "eta" : 15,
+  "leadTime" : 253417804
+}{
+  "id" : 671138269,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 08:58:35.025167",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671146018,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:00:06.302827",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671148654,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:00:36.670841",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671156378,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:02:35.513038",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671170628,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:04:35.529203",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671180809,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:06:18.143667",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671182413,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:06:35.450587",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671185489,
+  "createdAt" : "2021-11-29 09:00:06.302827",
+  "lastUpdatedAt" : "2021-11-29 09:07:12.226919",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 350092
+}{
+  "id" : 671191800,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:08:35.027854",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671201037,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:10:35.024722",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671208937,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:12:35.024971",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671216511,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:14:35.025311",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671224021,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:16:35.026656",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671231575,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:18:35.025587",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671253274,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:20:35.025652",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671274604,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:22:35.025494",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671281922,
+  "createdAt" : "2021-11-29 09:24:06.233165",
+  "lastUpdatedAt" : "2021-11-29 09:24:06.233165",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671284345,
+  "createdAt" : "2021-11-29 09:24:06.233165",
+  "lastUpdatedAt" : "2021-11-29 09:24:35.512500",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671291125,
+  "createdAt" : "2021-11-29 09:24:06.233165",
+  "lastUpdatedAt" : "2021-11-29 09:26:02.026698",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671293571,
+  "createdAt" : "2021-11-29 09:24:06.233165",
+  "lastUpdatedAt" : "2021-11-29 09:26:35.466502",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671295667,
+  "createdAt" : "2021-11-29 09:24:06.233165",
+  "lastUpdatedAt" : "2021-11-29 09:26:58.399851",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 338686
+}{
+  "id" : 671303344,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:28:35.030159",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671311299,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:30:35.025232",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671320643,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:32:35.025920",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671328518,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:34:35.025504",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671337719,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:36:35.025356",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671347971,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:38:35.025719",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671359317,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:40:35.025191",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671369017,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:42:35.025823",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671377737,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:44:35.030605",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671386051,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:46:35.027945",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671394213,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:48:35.025365",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671401844,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:50:35.031269",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671410245,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:52:35.026214",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671418707,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:54:35.025429",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671428411,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:56:35.026974",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671430891,
+  "createdAt" : "2021-11-09 09:19:38.045433",
+  "lastUpdatedAt" : "2021-11-29 09:57:08.126936",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671430958,
+  "createdAt" : "2021-11-29 09:57:07.985609",
+  "lastUpdatedAt" : "2021-11-29 09:57:08.262011",
+  "collectionDuration" : 139691,
+  "deliveryDuration" : 0,
+  "eta" : 39,
+  "leadTime" : 0
+}{
+  "id" : 671431796,
+  "createdAt" : "2021-11-29 09:57:07.985609",
+  "lastUpdatedAt" : "2021-11-29 09:57:19.292997",
+  "collectionDuration" : 139691,
+  "deliveryDuration" : 0,
+  "eta" : 39,
+  "leadTime" : 0
+}{
+  "id" : 671432739,
+  "createdAt" : "2021-11-29 09:57:07.985609",
+  "lastUpdatedAt" : "2021-11-29 09:57:32.981483",
+  "collectionDuration" : 139691,
+  "deliveryDuration" : 0,
+  "eta" : 39,
+  "leadTime" : 0
+}{
+  "id" : 671437790,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 09:58:35.025567",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671446509,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:00:35.027087",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671454559,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:02:35.030272",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671463269,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:04:35.025766",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671471515,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:06:35.026347",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671480236,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:08:35.026025",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671490427,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:10:35.029379",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671500469,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:12:35.026408",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671509622,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:14:35.028507",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671519121,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:16:35.028089",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671528270,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:18:35.028625",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671536525,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:20:35.025403",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671545545,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:22:35.025937",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671554806,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:24:35.026942",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671563205,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:26:35.026862",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671572140,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:28:35.026402",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671580277,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:30:35.030119",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671588476,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:32:35.026294",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671596729,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:34:35.027361",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671607996,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:36:35.026808",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671616947,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:38:35.025138",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671625750,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:40:35.026970",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671634685,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:42:35.026308",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671644066,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:44:35.027162",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671652756,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:46:35.026043",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671661909,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:48:35.027194",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671670414,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:50:35.025438",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671678856,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:52:35.027298",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671687787,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:54:35.030782",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671697701,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:56:35.024274",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671706531,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 10:58:35.027937",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671715829,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:00:35.026685",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671725546,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:02:35.028701",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671735945,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:04:35.027395",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671747004,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:06:35.031310",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671757804,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:08:35.056387",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671768569,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:10:35.027775",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671777341,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:12:35.029125",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671785810,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:14:35.027447",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671795944,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:16:35.036687",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671804458,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:18:35.026599",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671812817,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:20:35.034706",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671821517,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:22:35.027698",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671830152,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:24:35.027401",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671839120,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 11:26:26.310021",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671839951,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:26:35.029842",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671848866,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:28:35.027351",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671858819,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:30:35.027701",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671868863,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:32:35.027146",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671881110,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:34:35.027773",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671892819,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:36:35.033777",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671906000,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:38:35.026531",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671919803,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:40:35.027521",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671931870,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:42:35.029108",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671944865,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:44:35.026782",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671956141,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:46:35.038378",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671966723,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:48:35.028694",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671979073,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:50:35.025876",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 671991251,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:52:35.029613",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672002263,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:54:35.026057",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672008681,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 11:55:29.105174",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672017403,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:56:35.027160",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672029572,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 11:58:35.030743",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672043313,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:00:35.033835",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672056863,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:02:35.027684",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672069408,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:04:35.025795",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672076386,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 12:05:39.424682",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672076449,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 12:05:39.601485",
+  "collectionDuration" : 177789,
+  "deliveryDuration" : 0,
+  "eta" : 50,
+  "leadTime" : 0
+}{
+  "id" : 672078970,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 12:06:04.885922",
+  "collectionDuration" : 177789,
+  "deliveryDuration" : 0,
+  "eta" : 50,
+  "leadTime" : 0
+}{
+  "id" : 672079364,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 12:06:07.755859",
+  "collectionDuration" : 177789,
+  "deliveryDuration" : 0,
+  "eta" : 50,
+  "leadTime" : 0
+}{
+  "id" : 672082500,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:06:35.027131",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672085867,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 12:07:07.301870",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672085921,
+  "createdAt" : "2021-11-29 12:07:07.219958",
+  "lastUpdatedAt" : "2021-11-29 12:07:07.396613",
+  "collectionDuration" : 98241,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 672086742,
+  "createdAt" : "2021-11-29 12:07:07.219958",
+  "lastUpdatedAt" : "2021-11-29 12:07:16.489380",
+  "collectionDuration" : 98241,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 672091091,
+  "createdAt" : "2021-11-29 12:07:07.219958",
+  "lastUpdatedAt" : "2021-11-29 12:08:02.477700",
+  "collectionDuration" : 98241,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 672094026,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:08:35.030359",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672104602,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:10:35.027443",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672116109,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:12:35.027807",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672128558,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:14:35.027784",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672141571,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:16:35.028939",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672153613,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:18:35.027876",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672165517,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:20:35.028843",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672177369,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:22:35.036101",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672191863,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:24:35.029150",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672196400,
+  "createdAt" : "2021-11-29 12:25:07.615918",
+  "lastUpdatedAt" : "2021-11-29 12:25:07.615918",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672205366,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 12:26:07.168095",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672209345,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:26:35.033376",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672219381,
+  "createdAt" : "2021-11-29 12:25:07.615918",
+  "lastUpdatedAt" : "2021-11-29 12:27:54.140943",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672219891,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 12:27:54.971833",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672226452,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 12:28:35.896083",
+  "collectionDuration" : 177789,
+  "deliveryDuration" : 0,
+  "eta" : 68,
+  "leadTime" : 0
+}{
+  "id" : 672226459,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 12:28:35.911368",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672239751,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 12:30:15.074516",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672239863,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 12:30:15.164017",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 0,
+  "eta" : 45,
+  "leadTime" : 0
+}{
+  "id" : 672241610,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 12:30:28.915915",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 0,
+  "eta" : 45,
+  "leadTime" : 0
+}{
+  "id" : 672242406,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 12:30:37.125353",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 0,
+  "eta" : 74,
+  "leadTime" : 0
+}{
+  "id" : 672242429,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:30:37.139956",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672251107,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 12:31:46.335970",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672251160,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 12:31:46.434791",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 0,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672253538,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 12:32:09.043816",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 0,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672255865,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:32:35.031493",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672259110,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 12:33:09.128004",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 0,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672267259,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:34:35.029919",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672280706,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:36:35.037015",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672295999,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:38:35.040378",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672313142,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:40:35.029607",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672328128,
+  "createdAt" : "2021-11-26 16:09:06.532833",
+  "lastUpdatedAt" : "2021-11-29 12:42:35.029849",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672331412,
+  "createdAt" : "2021-11-29 12:43:06.265231",
+  "lastUpdatedAt" : "2021-11-29 12:43:06.265231",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672331557,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:43:06.569293",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672331669,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 12:43:07.180190",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 0,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672344230,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:44:37.096191",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672361262,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:46:36.891150",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672377745,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:48:36.899332",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672392131,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:50:36.715604",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672393607,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 12:50:50.976044",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 0,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672393608,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 12:50:50.982907",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 0,
+  "eta" : 61,
+  "leadTime" : 0
+}{
+  "id" : 672393611,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 12:50:50.989196",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 0,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672393618,
+  "createdAt" : "2021-11-29 12:25:07.615918",
+  "lastUpdatedAt" : "2021-11-29 12:50:50.993923",
+  "collectionDuration" : -147211,
+  "deliveryDuration" : 0,
+  "eta" : 69,
+  "leadTime" : 0
+}{
+  "id" : 672405508,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:52:36.894281",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672419789,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:54:36.999060",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672419823,
+  "createdAt" : "2021-09-09 10:31:17.610858",
+  "lastUpdatedAt" : "2021-11-29 12:54:37.724006",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672436268,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:56:36.305246",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672445303,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 12:57:53.321360",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672450814,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 12:58:36.297327",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672456169,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 12:59:19.881665",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672465145,
+  "createdAt" : "2021-09-06 14:51:45.388057",
+  "lastUpdatedAt" : "2021-11-29 13:00:30.478693",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672465832,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 13:00:35.740984",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672481386,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 13:02:35.760793",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672496738,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 13:04:35.721503",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672508694,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:06:03.696912",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672510438,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:06:16.185724",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672511432,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 13:06:25.476182",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 1817803,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672512641,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 13:06:36.691855",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672514663,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 13:06:56.008164",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 1817803,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672515311,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 13:07:01.075219",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 1817803,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672516743,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:07:09.837570",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672518118,
+  "createdAt" : "2021-11-29 12:25:07.615918",
+  "lastUpdatedAt" : "2021-11-29 13:07:20.277489",
+  "collectionDuration" : -147211,
+  "deliveryDuration" : 2504720,
+  "eta" : 69,
+  "leadTime" : 0
+}{
+  "id" : 672518734,
+  "createdAt" : "2021-11-29 12:25:07.615918",
+  "lastUpdatedAt" : "2021-11-29 13:07:25.376592",
+  "collectionDuration" : -147211,
+  "deliveryDuration" : 2504720,
+  "eta" : 69,
+  "leadTime" : 0
+}{
+  "id" : 672521730,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:07:53.877077",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672522324,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 13:07:58.382145",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 1817803,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672523309,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 13:08:07.009290",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 1757788,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672523832,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 13:08:12.319151",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 1757788,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672524714,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 13:08:20.773539",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 1757788,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672525265,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:08:26.224239",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672526205,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 13:08:34.074719",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 2212933,
+  "eta" : 61,
+  "leadTime" : 0
+}{
+  "id" : 672526507,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 13:08:35.744634",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672528006,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 13:08:48.197973",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 2212933,
+  "eta" : 61,
+  "leadTime" : 0
+}{
+  "id" : 672529726,
+  "createdAt" : "2021-11-29 12:30:14.940720",
+  "lastUpdatedAt" : "2021-11-29 13:09:01.602883",
+  "collectionDuration" : 90717,
+  "deliveryDuration" : 2212933,
+  "eta" : 61,
+  "leadTime" : 0
+}{
+  "id" : 672530017,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 13:09:03.078842",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 1757788,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672530616,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 13:09:06.304288",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672532742,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:09:27.777997",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672533957,
+  "createdAt" : "2021-11-29 12:26:07.168095",
+  "lastUpdatedAt" : "2021-11-29 13:09:36.075252",
+  "collectionDuration" : 685881,
+  "deliveryDuration" : 1817803,
+  "eta" : 65,
+  "leadTime" : 0
+}{
+  "id" : 672534220,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:09:38.196248",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672536961,
+  "createdAt" : "2021-11-29 12:31:46.215302",
+  "lastUpdatedAt" : "2021-11-29 13:09:57.185493",
+  "collectionDuration" : 102530,
+  "deliveryDuration" : 1757788,
+  "eta" : 57,
+  "leadTime" : 0
+}{
+  "id" : 672540835,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:10:24.281262",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672542965,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 13:10:35.893418",
+  "collectionDuration" : -601216869,
+  "deliveryDuration" : 0,
+  "eta" : 64,
+  "leadTime" : 0
+}{
+  "id" : 672542976,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 13:10:35.906252",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672544010,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 13:10:44.976899",
+  "collectionDuration" : -601216869,
+  "deliveryDuration" : 0,
+  "eta" : 64,
+  "leadTime" : 0
+}{
+  "id" : 672558042,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 13:12:35.818758",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672573136,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 13:14:35.620487",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672576265,
+  "createdAt" : "2021-11-29 13:15:06.301096",
+  "lastUpdatedAt" : "2021-11-29 13:15:06.301096",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672586721,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 13:16:35.627841",
+  "collectionDuration" : 177789,
+  "deliveryDuration" : 0,
+  "eta" : 101,
+  "leadTime" : 0
+}{
+  "id" : 672586728,
+  "createdAt" : "2021-11-29 13:15:06.301096",
+  "lastUpdatedAt" : "2021-11-29 13:16:35.642906",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672590004,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:17:03.079869",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672601149,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 13:18:36.335286",
+  "collectionDuration" : -601139162,
+  "deliveryDuration" : 0,
+  "eta" : 41,
+  "leadTime" : 0
+}{
+  "id" : 672601162,
+  "createdAt" : "2021-11-29 13:15:06.301096",
+  "lastUpdatedAt" : "2021-11-29 13:18:36.348829",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672602204,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 13:18:46.378384",
+  "collectionDuration" : -601139162,
+  "deliveryDuration" : 0,
+  "eta" : 41,
+  "leadTime" : 0
+}{
+  "id" : 672603003,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 13:18:54.775095",
+  "collectionDuration" : -601139162,
+  "deliveryDuration" : 0,
+  "eta" : 41,
+  "leadTime" : 0
+}{
+  "id" : 672616824,
+  "createdAt" : "2021-11-29 13:15:06.301096",
+  "lastUpdatedAt" : "2021-11-29 13:20:36.106446",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672632717,
+  "createdAt" : "2021-11-29 13:15:06.301096",
+  "lastUpdatedAt" : "2021-11-29 13:22:35.961843",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672637180,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:23:06.366989",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672646536,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:24:35.990808",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672658468,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:26:36.112064",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672671785,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:28:35.995373",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672685906,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:30:36.034583",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672698481,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:32:35.966987",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672711330,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:34:36.084683",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672725076,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:36:35.963916",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672738922,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:38:35.922899",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672753216,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 13:40:35.920135",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672756727,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 13:41:06.289759",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672767116,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 13:42:35.896951",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672770725,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:43:06.372710",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672778710,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:44:01.744065",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672784022,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:44:36.201922",
+  "collectionDuration" : 506254,
+  "deliveryDuration" : 0,
+  "eta" : 39,
+  "leadTime" : 0
+}{
+  "id" : 672784031,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 13:44:36.212691",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672787747,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:45:06.230430",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672787916,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:45:06.572125",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672788292,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:45:07.293088",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672791969,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:45:31.792905",
+  "collectionDuration" : 506254,
+  "deliveryDuration" : 0,
+  "eta" : 39,
+  "leadTime" : 0
+}{
+  "id" : 672799325,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:46:36.078452",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672812730,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:48:36.095077",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672822729,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:50:08.142100",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672823425,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:50:13.878843",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 0,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672824911,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:50:29.076787",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 0,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672824912,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:50:29.082995",
+  "collectionDuration" : 506254,
+  "deliveryDuration" : 0,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672825049,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:50:30.889792",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672825439,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:50:34.001980",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672825610,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:50:35.946547",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672825927,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:50:38.860297",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 900771,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672831814,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:51:36.180371",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 900771,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672834315,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:52:00.590356",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 900771,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672835693,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:52:13.267079",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672836472,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:52:20.574537",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 900771,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672836708,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:52:23.077724",
+  "collectionDuration" : 506254,
+  "deliveryDuration" : -162146,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672838201,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:52:35.961094",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672839316,
+  "createdAt" : "2021-11-29 13:43:06.372710",
+  "lastUpdatedAt" : "2021-11-29 13:52:47.591181",
+  "collectionDuration" : 506254,
+  "deliveryDuration" : -162146,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672839527,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:52:49.183581",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672841111,
+  "createdAt" : "2021-11-29 13:45:06.572125",
+  "lastUpdatedAt" : "2021-11-29 13:53:04.074647",
+  "collectionDuration" : -144962,
+  "deliveryDuration" : 900771,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672841521,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:53:07.789686",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672852306,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:54:36.081151",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672863612,
+  "createdAt" : "2021-11-29 13:56:06.267998",
+  "lastUpdatedAt" : "2021-11-29 13:56:06.267998",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672863751,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 13:56:06.592256",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672865910,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 13:56:29.563772",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672866485,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:56:35.976848",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672868075,
+  "createdAt" : "2021-11-29 13:56:06.267998",
+  "lastUpdatedAt" : "2021-11-29 13:56:52.102200",
+  "collectionDuration" : -435900,
+  "deliveryDuration" : 0,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672868391,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 13:56:52.708645",
+  "collectionDuration" : 168734,
+  "deliveryDuration" : 0,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672868878,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 13:56:57.033656",
+  "collectionDuration" : 168734,
+  "deliveryDuration" : 0,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672868882,
+  "createdAt" : "2021-11-29 13:56:06.267998",
+  "lastUpdatedAt" : "2021-11-29 13:56:57.041340",
+  "collectionDuration" : -435900,
+  "deliveryDuration" : 0,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672869949,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 13:57:07.079655",
+  "collectionDuration" : 168734,
+  "deliveryDuration" : 0,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672878784,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 13:58:35.999691",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672892025,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:00:35.392885",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672892102,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:00:35.972500",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672892481,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:00:39.378004",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672892757,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 14:00:42.576030",
+  "collectionDuration" : 168734,
+  "deliveryDuration" : 100159,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672893375,
+  "createdAt" : "2021-11-29 13:56:06.592256",
+  "lastUpdatedAt" : "2021-11-29 14:00:45.574422",
+  "collectionDuration" : 168734,
+  "deliveryDuration" : 100159,
+  "eta" : 44,
+  "leadTime" : 0
+}{
+  "id" : 672895704,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:01:07.679821",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672896780,
+  "createdAt" : "2021-11-29 13:56:06.267998",
+  "lastUpdatedAt" : "2021-11-29 14:01:15.425530",
+  "collectionDuration" : -435900,
+  "deliveryDuration" : 588884,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672897128,
+  "createdAt" : "2021-11-29 13:56:06.267998",
+  "lastUpdatedAt" : "2021-11-29 14:01:18.474008",
+  "collectionDuration" : -435900,
+  "deliveryDuration" : 588884,
+  "eta" : 47,
+  "leadTime" : 0
+}{
+  "id" : 672897414,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:01:20.788986",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672899796,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 14:01:45.097709",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672905663,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 14:02:36.440368",
+  "collectionDuration" : -601139162,
+  "deliveryDuration" : 0,
+  "eta" : 49,
+  "leadTime" : 0
+}{
+  "id" : 672905681,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:02:36.455270",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672909649,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:03:06.368639",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672916549,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:04:06.301636",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672916921,
+  "createdAt" : "2021-11-29 12:07:07.219958",
+  "lastUpdatedAt" : "2021-11-29 14:04:09.066541",
+  "collectionDuration" : -6968174,
+  "deliveryDuration" : 0,
+  "eta" : 62,
+  "leadTime" : 0
+}{
+  "id" : 672919379,
+  "createdAt" : "2021-11-22 14:14:27.084633",
+  "lastUpdatedAt" : "2021-11-29 14:04:36.085721",
+  "collectionDuration" : -601139162,
+  "deliveryDuration" : 0,
+  "eta" : 45,
+  "leadTime" : 0
+}{
+  "id" : 672919425,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:04:36.553678",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 672919438,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:04:36.564164",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672926636,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:05:48.415596",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 0,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 672926986,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:05:49.042411",
+  "collectionDuration" : -436841,
+  "deliveryDuration" : 0,
+  "eta" : 46,
+  "leadTime" : 0
+}{
+  "id" : 672928083,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:05:59.901273",
+  "collectionDuration" : -436841,
+  "deliveryDuration" : 0,
+  "eta" : 46,
+  "leadTime" : 0
+}{
+  "id" : 672931363,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:06:36.088192",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672932743,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:06:49.576238",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 0,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 672932744,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:06:49.583311",
+  "collectionDuration" : -436841,
+  "deliveryDuration" : 0,
+  "eta" : 46,
+  "leadTime" : 0
+}{
+  "id" : 672933224,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:06:54.285937",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672933581,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:06:58.031138",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672942705,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:08:37.788195",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672953082,
+  "createdAt" : "2021-09-09 10:31:17.610858",
+  "lastUpdatedAt" : "2021-11-29 14:10:22.176853",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672954356,
+  "createdAt" : "2021-09-09 10:31:17.610858",
+  "lastUpdatedAt" : "2021-11-29 14:10:35.668765",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672954402,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 14:10:36.100389",
+  "collectionDuration" : -6997030,
+  "deliveryDuration" : 0,
+  "eta" : 41,
+  "leadTime" : 0
+}{
+  "id" : 672954416,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:10:36.113895",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672960187,
+  "createdAt" : "2021-09-09 10:31:17.610858",
+  "lastUpdatedAt" : "2021-11-29 14:11:30.883522",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672963091,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 14:12:03.823708",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672963741,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 14:12:08.880976",
+  "collectionDuration" : -7805009,
+  "deliveryDuration" : 0,
+  "eta" : 467,
+  "leadTime" : 0
+}{
+  "id" : 672966218,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:12:36.409094",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672968252,
+  "createdAt" : "2021-11-29 12:05:39.305577",
+  "lastUpdatedAt" : "2021-11-29 14:12:56.777480",
+  "collectionDuration" : -7805009,
+  "deliveryDuration" : 0,
+  "eta" : 467,
+  "leadTime" : 0
+}{
+  "id" : 672973478,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:13:44.764516",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 672978178,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:14:35.353569",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 672990674,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:16:35.384245",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673005616,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:18:35.407466",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673016549,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:20:15.091008",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 673018407,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:20:35.345166",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673030585,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:22:15.061441",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 673033320,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:22:35.345215",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673043431,
+  "createdAt" : "2021-09-09 10:31:17.610858",
+  "lastUpdatedAt" : "2021-11-29 14:24:06.663594",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673043498,
+  "createdAt" : "2021-11-29 14:24:06.577555",
+  "lastUpdatedAt" : "2021-11-29 14:24:06.764066",
+  "collectionDuration" : 103509,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 673044362,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:24:15.033439",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 673046363,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:24:37.103191",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673049452,
+  "createdAt" : "2021-11-29 14:24:06.577555",
+  "lastUpdatedAt" : "2021-11-29 14:25:09.030903",
+  "collectionDuration" : 103509,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 673051507,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:25:30.109640",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673052217,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:25:36.422275",
+  "collectionDuration" : -436841,
+  "deliveryDuration" : 1568937,
+  "eta" : 46,
+  "leadTime" : 0
+}{
+  "id" : 673052519,
+  "createdAt" : "2021-11-29 14:04:06.301636",
+  "lastUpdatedAt" : "2021-11-29 14:25:39.721302",
+  "collectionDuration" : -436841,
+  "deliveryDuration" : 1568937,
+  "eta" : 46,
+  "leadTime" : 0
+}{
+  "id" : 673052720,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:25:41.024255",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673053344,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:25:46.775931",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 673053460,
+  "createdAt" : "2021-11-29 14:03:06.368639",
+  "lastUpdatedAt" : "2021-11-29 14:25:48.447191",
+  "collectionDuration" : -67448,
+  "deliveryDuration" : 827421,
+  "eta" : 43,
+  "leadTime" : 0
+}{
+  "id" : 673053768,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:25:50.302460",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673059598,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:26:37.082294",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673062372,
+  "createdAt" : "2021-11-29 14:24:06.577555",
+  "lastUpdatedAt" : "2021-11-29 14:26:59.333509",
+  "collectionDuration" : 103509,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 673062914,
+  "createdAt" : "2021-11-29 14:24:06.577555",
+  "lastUpdatedAt" : "2021-11-29 14:27:03.974842",
+  "collectionDuration" : 103509,
+  "deliveryDuration" : 0,
+  "eta" : 52,
+  "leadTime" : 0
+}{
+  "id" : 673073048,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:28:37.080759",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673086547,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:30:37.085304",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673100693,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:32:37.086051",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673113027,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:34:37.081413",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673125736,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:36:37.087482",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673138036,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:38:37.089653",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673146721,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:39:59.104997",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673151360,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:40:37.084880",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673152341,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:40:43.017182",
+  "collectionDuration" : -44905,
+  "deliveryDuration" : 0,
+  "eta" : 20,
+  "leadTime" : 0
+}{
+  "id" : 673152816,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:40:46.381850",
+  "collectionDuration" : -44905,
+  "deliveryDuration" : 0,
+  "eta" : 20,
+  "leadTime" : 0
+}{
+  "id" : 673155593,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:41:12.351034",
+  "collectionDuration" : -44905,
+  "deliveryDuration" : 0,
+  "eta" : 20,
+  "leadTime" : 0
+}{
+  "id" : 673155665,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:41:13.383348",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673155803,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:41:14.573429",
+  "collectionDuration" : -44905,
+  "deliveryDuration" : 591410,
+  "eta" : 20,
+  "leadTime" : 0
+}{
+  "id" : 673156250,
+  "createdAt" : "2021-11-29 13:45:06.230430",
+  "lastUpdatedAt" : "2021-11-29 14:41:17.283798",
+  "collectionDuration" : -44905,
+  "deliveryDuration" : 591410,
+  "eta" : 20,
+  "leadTime" : 0
+}{
+  "id" : 673156340,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:41:18.504296",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673162738,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 14:42:09.824918",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673165331,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:42:34.317154",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673165679,
+  "createdAt" : "2021-11-29 14:24:06.577555",
+  "lastUpdatedAt" : "2021-11-29 14:42:35.745596",
+  "collectionDuration" : 103509,
+  "deliveryDuration" : 0,
+  "eta" : 49,
+  "leadTime" : 0
+}{
+  "id" : 673165692,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:42:35.758157",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673167177,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:42:48.989525",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673176267,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:44:09.138953",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673178948,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 14:44:35.825037",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673178966,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:44:35.843200",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673191470,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 14:46:09.053708",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 21,
+  "leadTime" : 0
+}{
+  "id" : 673193790,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:46:35.819428",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673203668,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:48:09.202628",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673206028,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:48:35.811864",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673207715,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:48:51.167359",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673208956,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:49:02.483942",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673209225,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:49:05.846670",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 236219,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673217917,
+  "createdAt" : "2021-11-29 13:41:06.289759",
+  "lastUpdatedAt" : "2021-11-29 14:50:21.177002",
+  "collectionDuration" : 687791,
+  "deliveryDuration" : 236219,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673218470,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 14:50:26.277262",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673219960,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:50:35.822708",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673232737,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:52:35.799116",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673245620,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:54:35.884060",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673258953,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:56:35.837159",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673271953,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 14:58:35.792669",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673286751,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:00:35.888044",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673300133,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:02:36.181639",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673312677,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:04:35.792974",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673326380,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:06:36.204963",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673336347,
+  "createdAt" : "2021-11-29 15:08:06.237014",
+  "lastUpdatedAt" : "2021-11-29 15:08:06.237014",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673339183,
+  "createdAt" : "2021-11-29 15:08:06.237014",
+  "lastUpdatedAt" : "2021-11-29 15:08:35.836509",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673340058,
+  "createdAt" : "2021-11-29 15:08:06.237014",
+  "lastUpdatedAt" : "2021-11-29 15:08:44.347211",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 148197
+}{
+  "id" : 673353560,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:10:37.087828",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 19,
+  "leadTime" : 0
+}{
+  "id" : 673353582,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:10:37.105636",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673357181,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:11:06.275197",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673365778,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 15:12:09.026841",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673369256,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:12:35.877320",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673369266,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:12:35.896655",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673380268,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 15:14:09.052456",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 21,
+  "leadTime" : 0
+}{
+  "id" : 673383750,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:14:35.870405",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 19,
+  "leadTime" : 0
+}{
+  "id" : 673383768,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:14:35.885311",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673394652,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 15:16:09.051270",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673397337,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:16:35.804116",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673397353,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:16:35.820843",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673408332,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 15:18:09.028006",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 21,
+  "leadTime" : 0
+}{
+  "id" : 673410712,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:18:36.162258",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 19,
+  "leadTime" : 0
+}{
+  "id" : 673410726,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:18:36.174593",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673421265,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 15:20:09.047410",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673423794,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:20:36.113384",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673423810,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:20:36.126917",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673433970,
+  "createdAt" : "2021-11-29 15:22:06.239634",
+  "lastUpdatedAt" : "2021-11-29 15:22:06.239634",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673434382,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 15:22:09.067431",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 21,
+  "leadTime" : 0
+}{
+  "id" : 673436986,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:22:36.184785",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 19,
+  "leadTime" : 0
+}{
+  "id" : 673437006,
+  "createdAt" : "2021-11-29 15:22:06.239634",
+  "lastUpdatedAt" : "2021-11-29 15:22:36.202549",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673437363,
+  "createdAt" : "2021-11-29 15:22:06.239634",
+  "lastUpdatedAt" : "2021-11-29 15:22:38.300597",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 92963
+}{
+  "id" : 673449916,
+  "createdAt" : "2021-11-29 13:09:06.304288",
+  "lastUpdatedAt" : "2021-11-29 15:24:09.056069",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673453181,
+  "createdAt" : "2021-11-17 10:55:06.311390",
+  "lastUpdatedAt" : "2021-11-29 15:24:36.046094",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 16,
+  "leadTime" : 0
+}{
+  "id" : 673453196,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:24:36.061255",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673463292,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:25:54.761181",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673464847,
+  "createdAt" : "2021-11-29 12:43:06.569293",
+  "lastUpdatedAt" : "2021-11-29 15:26:09.031411",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 21,
+  "leadTime" : 0
+}{
+  "id" : 673464955,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:26:11.097876",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673466613,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:26:26.575022",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673468092,
+  "createdAt" : "2021-09-09 16:22:17.000000",
+  "lastUpdatedAt" : "2021-11-29 15:26:35.841636",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673468483,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:26:36.680877",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673483028,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:28:35.620731",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673483033,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:28:35.633952",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673497116,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 15:30:24.907084",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673498465,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:30:35.573265",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673505094,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:31:25.092147",
+  "collectionDuration" : -752942,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673510234,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:32:09.025526",
+  "collectionDuration" : -752942,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673510353,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:32:11.176959",
+  "collectionDuration" : -752942,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673510945,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 15:32:17.701408",
+  "collectionDuration" : -752942,
+  "deliveryDuration" : 0,
+  "eta" : 23,
+  "leadTime" : 0
+}{
+  "id" : 673512675,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:32:35.521552",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673516969,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 15:33:16.627340",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673526464,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:34:35.563698",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673530863,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 15:35:11.025018",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673532216,
+  "createdAt" : "2021-09-01 14:30:53.681605",
+  "lastUpdatedAt" : "2021-11-29 15:35:25.139768",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673539491,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:36:35.593718",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673553242,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:38:35.630259",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673566188,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:40:35.596591",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673553242,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:38:35.630259",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673566188,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:40:35.596591",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673579403,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:42:35.535429",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673581893,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:43:03.507488",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673583730,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:43:22.279009",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673591957,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:44:35.707168",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673591963,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:44:35.723430",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673598114,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:45:24.633176",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673598913,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:45:32.946180",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673599944,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:45:43.175525",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673604975,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:46:35.747653",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673604988,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:46:35.761715",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673607649,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:47:00.733945",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673609521,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:47:18.396388",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673609839,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:47:20.873926",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673617750,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:48:35.759809",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673617760,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:48:35.774146",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673623732,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:49:27.222546",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673624310,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:49:32.673838",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673624882,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:49:37.972840",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673631455,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:50:35.730639",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673631461,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:50:35.745123",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673638035,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:51:32.106101",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673639039,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:51:38.817424",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673640234,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 15:51:48.360973",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673644995,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 15:52:35.824110",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673645004,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:52:35.838327",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673658445,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:54:35.631000",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673658445,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:54:35.631000",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673672898,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:56:35.601183",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673687287,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 15:58:35.548717",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673702772,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:24.401798",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673704097,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:35.903669",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673704102,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 16:00:35.917684",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673705159,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:47.303358",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673706714,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 16:01:00.546102",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673702772,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:24.401798",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673704097,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:35.903669",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673704102,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 16:00:35.917684",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673705159,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:00:47.303358",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673706714,
+  "createdAt" : "2021-11-26 10:46:16.688073",
+  "lastUpdatedAt" : "2021-11-29 16:01:00.546102",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 446,
+  "leadTime" : 0
+}{
+  "id" : 673715539,
+  "createdAt" : "2021-02-03 16:41:11.846000",
+  "lastUpdatedAt" : "2021-11-29 16:02:35.902708",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673715545,
+  "createdAt" : "2021-11-29 15:11:06.275197",
+  "lastUpdatedAt" : "2021-11-29 16:02:35.920905",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}{
+  "id" : 673727927,
+  "createdAt" : "2021-11-29 13:23:06.366989",
+  "lastUpdatedAt" : "2021-11-29 16:04:35.991251",
+  "collectionDuration" : 0,
+  "deliveryDuration" : 0,
+  "eta" : 0,
+  "leadTime" : 0
+}

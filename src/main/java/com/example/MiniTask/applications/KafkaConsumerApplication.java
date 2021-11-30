@@ -1,11 +1,10 @@
-package com.example.MiniTask;
+package com.example.MiniTask.applications;
 
+import com.example.MiniTask.ConsumerRecordsHandler;
+import com.example.MiniTask.FileWritingRecordsHandler;
 import org.apache.kafka.clients.consumer.Consumer;
-import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
-import org.apache.kafka.clients.consumer.internals.ConsumerMetadata;
-import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.kafka.annotation.EnableKafka;
 
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package com.example.MiniTask;
+package com.example.MiniTask.applications;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;

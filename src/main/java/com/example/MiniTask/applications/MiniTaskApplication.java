@@ -1,4 +1,4 @@
-package com.example.MiniTask;
+package com.example.MiniTask.applications;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
