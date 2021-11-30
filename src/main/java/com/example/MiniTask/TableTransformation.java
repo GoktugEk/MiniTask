@@ -73,9 +73,7 @@ public class TableTransformation {
 
             pac = (Package) packageList.get(len-1);
 
-            if (counter == 627){
-                counter = 627;
-            }
+
 
 
             SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSSSSS");
@@ -89,7 +87,9 @@ public class TableTransformation {
 
 
             //CREATED_AT THIS IS COMPLETED
+
             createdAt = pac.data.created_at;
+
 
             //LAST_UPDATED_AT THIS IS COMPLETED
             lastUpdatedAt = pac.data.last_updated_at;
