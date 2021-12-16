@@ -36,6 +36,7 @@ public class TableTransformation {
             long id = pac.xid;
             long temp = id;
 
+
             while( id == temp){ //Getting all the updates on the same package to a list
                 packageList.add(pac);
                 if(scan.hasNextLine()) oldLine = scan.nextLine();
